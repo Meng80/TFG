@@ -1,0 +1,9 @@
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (5, 'Johny', '678567450', 'jjj@gmail.com', 'madrid', '2023-01-12 00:12:06');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (6, 'Tomas', '679567435', 'ahw@qq.com', 'madrid', '2023-02-26 00:12:49');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (7, 'Francisco', '698090543', 'dddd@gamil.com', 'madrid', '2023-03-29 00:13:30');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (8, 'Diego', '643256789', 'dddd@q.com', 'madrid', '2023-04-29 00:14:11');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (9, 'Lucas', '689089567', 'luca@gamil.com', 'madrid', '2023-05-29 00:14:52');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (10, 'Emma', '679098908', 'emmmm@gamil.com', 'madrid', '2023-06-08 00:15:21');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (11, 'David', '689078909', 'diss@qq.com', 'madrid', '2023-07-08 00:15:49');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (12, 'Daniel', '654389009', 'hjjh@gamil.com', 'madrid', '2023-11-09 00:16:30');
+INSERT INTO `sys_vip` (`id`, `name`, `phone`, `email`, `address`, `create_time`) VALUES (13, 'Annaaaa', '689098567', 'aaaaa@qq.com', 'madrid', '2023-12-14 00:16:53');
