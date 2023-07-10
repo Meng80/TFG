@@ -133,10 +133,9 @@ public class UserController {
         // 从数据库查询出所有的数据
         List<User> list = userService.list();
         // 通过工具类创建writer 写出到磁盘路径
-//        ExcelWriter writer = ExcelUtil.getWriter(filesUploadPath + "/用户信息.xlsx");
+        //     ExcelWriter writer = ExcelUtil.getWriter(filesUploadPath + "/用户信息.xlsx");
         // 在内存操作，写出到浏览器
         ExcelWriter writer = ExcelUtil.getWriter(true);
-
 
         // 一次性写出list内的对象到excel，使用默认样式，强制输出标题
         writer.write(list, true);
